@@ -127,7 +127,12 @@ class Movie(Base, TimestampMixin):
         "Person",
         secondary="movie_cast_association",
         back_populates="movies_as_cast",
-        viewonly=True,
+    )
+
+    cast_associations: Mapped[List["MovieCastAssociation"]] = relationship(
+        "MovieCastAssociation",
+        back_populates="movie",
+        cascade="all, delete-orphan",
     )
     
     # Crew (Directors, Writers, etc.)
@@ -135,7 +140,12 @@ class Movie(Base, TimestampMixin):
         "Person",
         secondary="movie_crew_association",
         back_populates="movies_as_crew",
-        viewonly=True,
+    )
+
+    crew_associations: Mapped[List["MovieCrewAssociation"]] = relationship(
+        "MovieCrewAssociation",
+        back_populates="movie",
+        cascade="all, delete-orphan",
     )
     
     # One-to-Many: Videos

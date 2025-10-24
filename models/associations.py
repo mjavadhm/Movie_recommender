@@ -1,4 +1,5 @@
 from sqlalchemy import Table, Column, Integer, ForeignKey, String
+from sqlalchemy.orm import relationship
 
 from .base import Base
 
@@ -54,25 +55,28 @@ movie_provider_association = Table(
 )
 
 # Movie <-> Cast (Person)
-movie_cast_association = Table(
-    'movie_cast_association',
-    Base.metadata,
-    Column('id', Integer, primary_key=True, autoincrement=True),
-    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), nullable=False),
-    Column('person_id', Integer, ForeignKey('persons.id', ondelete='CASCADE'), nullable=False),
-    Column('character_name', String(255), nullable=True),
-    Column('cast_order', Integer, nullable=True),
-    Column('credit_id', String(50), nullable=True),
-)
+class MovieCastAssociation(Base):
+    __tablename__ = 'movie_cast_association'
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    movie_id = Column(Integer, ForeignKey('movies.id', ondelete='CASCADE'), nullable=False)
+    person_id = Column(Integer, ForeignKey('persons.id', ondelete='CASCADE'), nullable=False)
+    character_name = Column(String(255), nullable=True)
+    cast_order = Column(Integer, nullable=True)
+    credit_id = Column(String(50), nullable=True)
+
+    movie = relationship("Movie", back_populates="cast_associations")
+
 
 # Movie <-> Crew (Person)
-movie_crew_association = Table(
-    'movie_crew_association',
-    Base.metadata,
-    Column('id', Integer, primary_key=True, autoincrement=True),
-    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), nullable=False),
-    Column('person_id', Integer, ForeignKey('persons.id', ondelete='CASCADE'), nullable=False),
-    Column('department', String(100), nullable=True),
-    Column('job', String(100), nullable=True),
-    Column('credit_id', String(50), nullable=True),
-)
+class MovieCrewAssociation(Base):
+    __tablename__ = 'movie_crew_association'
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    movie_id = Column(Integer, ForeignKey('movies.id', ondelete='CASCADE'), nullable=False)
+    person_id = Column(Integer, ForeignKey('persons.id', ondelete='CASCADE'), nullable=False)
+    department = Column(String(100), nullable=True)
+    job = Column(String(100), nullable=True)
+    credit_id = Column(String(50), nullable=True)
+
+    movie = relationship("Movie", back_populates="crew_associations")
