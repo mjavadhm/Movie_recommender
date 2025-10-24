@@ -1,14 +1,31 @@
+from typing import TYPE_CHECKING, List, Optional
 
-from sqlalchemy import Column, Integer, BigInteger, String
-from sqlalchemy.orm import relationship
-from . import Base
+from sqlalchemy import Integer, String
+from sqlalchemy.orm import Mapped, mapped_column, relationship
 
-class User(Base):
+from .base import Base, TimestampMixin
+
+if TYPE_CHECKING:
+    from .ratings import UserMovieRating
+
+
+class User(Base, TimestampMixin):
+    """User model for test users"""
+    
     __tablename__ = 'users'
     
-    id = Column(Integer, primary_key=True)
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
+    username: Mapped[str] = mapped_column(String(100), unique=True, nullable=False, index=True)
+    email: Mapped[Optional[str]] = mapped_column(String(255), unique=True, nullable=True)
+    full_name: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
     
-    user_identifier = Column(String(255), unique=True, nullable=False, index=True) 
+    # Relationships
+    ratings: Mapped[List["UserMovieRating"]] = relationship(
+        "UserMovieRating",
+        back_populates="user",
+        cascade="all, delete-orphan",
+        lazy="selectin",
+    )
     
-    
-    ratings = relationship("UserMovieRating", back_populates="user", cascade="all, delete-orphan")
+    def __repr__(self) -> str:
+        return f"<User(id={self.id}, username='{self.username}')>"

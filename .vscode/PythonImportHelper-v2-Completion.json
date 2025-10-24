@@ -1,0 +1,1142 @@
+[
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "BigInteger",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "CheckConstraint",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "UniqueConstraint",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncEngine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "db_manager",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "movie_genre_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_genre_association = Table(\n    'movie_genre_association',\n    Base.metadata,\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), primary_key=True),\n    Column('genre_id', Integer, ForeignKey('genres.id', ondelete='CASCADE'), primary_key=True),\n)\n# Movie <-> Keyword\nmovie_keyword_association = Table(\n    'movie_keyword_association',\n    Base.metadata,",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "movie_keyword_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_keyword_association = Table(\n    'movie_keyword_association',\n    Base.metadata,\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), primary_key=True),\n    Column('keyword_id', Integer, ForeignKey('keywords.id', ondelete='CASCADE'), primary_key=True),\n)\n# Movie <-> Production Company\nmovie_company_association = Table(\n    'movie_company_association',\n    Base.metadata,",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "movie_company_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_company_association = Table(\n    'movie_company_association',\n    Base.metadata,\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), primary_key=True),\n    Column('company_id', Integer, ForeignKey('production_companies.id', ondelete='CASCADE'), primary_key=True),\n)\n# Movie <-> Production Country\nmovie_country_association = Table(\n    'movie_country_association',\n    Base.metadata,",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "movie_country_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_country_association = Table(\n    'movie_country_association',\n    Base.metadata,\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), primary_key=True),\n    Column('country_code', String(2), ForeignKey('production_countries.iso_code', ondelete='CASCADE'), primary_key=True),\n)\n# Movie <-> Spoken Language\nmovie_language_association = Table(\n    'movie_language_association',\n    Base.metadata,",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "movie_language_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_language_association = Table(\n    'movie_language_association',\n    Base.metadata,\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), primary_key=True),\n    Column('language_code', String(2), ForeignKey('spoken_languages.iso_code', ondelete='CASCADE'), primary_key=True),\n)\n# Movie <-> Provider\nmovie_provider_association = Table(\n    'movie_provider_association',\n    Base.metadata,",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "movie_provider_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_provider_association = Table(\n    'movie_provider_association',\n    Base.metadata,\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), primary_key=True),\n    Column('provider_id', Integer, ForeignKey('providers.id', ondelete='CASCADE'), primary_key=True),\n    Column('country_code', String(2), nullable=False),\n    Column('type', String(20), nullable=False),  # 'flatrate', 'rent', 'buy'\n)\n# Movie <-> Cast (Person)\nmovie_cast_association = Table(",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "movie_cast_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_cast_association = Table(\n    'movie_cast_association',\n    Base.metadata,\n    Column('id', Integer, primary_key=True, autoincrement=True),\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), nullable=False),\n    Column('person_id', Integer, ForeignKey('persons.id', ondelete='CASCADE'), nullable=False),\n    Column('character_name', String(255), nullable=True),\n    Column('cast_order', Integer, nullable=True),\n    Column('credit_id', String(50), nullable=True),\n)",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "movie_crew_association",
+        "kind": 5,
+        "importPath": "models.associations",
+        "description": "models.associations",
+        "peekOfCode": "movie_crew_association = Table(\n    'movie_crew_association',\n    Base.metadata,\n    Column('id', Integer, primary_key=True, autoincrement=True),\n    Column('movie_id', Integer, ForeignKey('movies.id', ondelete='CASCADE'), nullable=False),\n    Column('person_id', Integer, ForeignKey('persons.id', ondelete='CASCADE'), nullable=False),\n    Column('department', String(100), nullable=True),\n    Column('job', String(100), nullable=True),\n    Column('credit_id', String(50), nullable=True),\n)",
+        "detail": "models.associations",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "models.base",
+        "description": "models.base",
+        "peekOfCode": "class Base(DeclarativeBase):\n    \"\"\"Base class for all models\"\"\"\n    # Type annotation mapping for SQLAlchemy\n    type_annotation_map = {\n        datetime: DateTime(timezone=True),\n    }\nclass TimestampMixin:\n    \"\"\"Mixin for created_at and updated_at timestamps\"\"\"\n    created_at: Mapped[datetime] = mapped_column(\n        DateTime(timezone=True),",
+        "detail": "models.base",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampMixin",
+        "kind": 6,
+        "importPath": "models.base",
+        "description": "models.base",
+        "peekOfCode": "class TimestampMixin:\n    \"\"\"Mixin for created_at and updated_at timestamps\"\"\"\n    created_at: Mapped[datetime] = mapped_column(\n        DateTime(timezone=True),\n        server_default=func.now(),\n        nullable=False,\n    )\n    updated_at: Mapped[datetime] = mapped_column(\n        DateTime(timezone=True),\n        server_default=func.now(),",
+        "detail": "models.base",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "kind": 6,
+        "importPath": "models.collection",
+        "description": "models.collection",
+        "peekOfCode": "class Collection(Base, TimestampMixin):\n    \"\"\"Movie collection model (e.g., Marvel Cinematic Universe)\"\"\"\n    __tablename__ = 'collections'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    tmdb_id: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)\n    name: Mapped[str] = mapped_column(String(255), nullable=False)\n    poster_path: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)\n    backdrop_path: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)\n    overview: Mapped[Optional[str]] = mapped_column(Text, nullable=True)\n    # Relationships",
+        "detail": "models.collection",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "kind": 6,
+        "importPath": "models.genre",
+        "description": "models.genre",
+        "peekOfCode": "class Genre(Base, TimestampMixin):\n    \"\"\"Genre model (Drama, Action, Comedy, etc.)\"\"\"\n    __tablename__ = 'genres'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    tmdb_id: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)\n    name: Mapped[str] = mapped_column(String(100), nullable=False, unique=True)\n    # Relationships\n    movies: Mapped[List[\"Movie\"]] = relationship(\n        \"Movie\",\n        secondary=\"movie_genre_association\",",
+        "detail": "models.genre",
+        "documentation": {}
+    },
+    {
+        "label": "Keyword",
+        "kind": 6,
+        "importPath": "models.keyword",
+        "description": "models.keyword",
+        "peekOfCode": "class Keyword(Base, TimestampMixin):\n    \"\"\"Keyword model for movie tagging\"\"\"\n    __tablename__ = 'keywords'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    tmdb_id: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)\n    name: Mapped[str] = mapped_column(String(255), nullable=False, unique=True)\n    # Relationships\n    movies: Mapped[List[\"Movie\"]] = relationship(\n        \"Movie\",\n        secondary=\"movie_keyword_association\",",
+        "detail": "models.keyword",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "kind": 6,
+        "importPath": "models.movie",
+        "description": "models.movie",
+        "peekOfCode": "class Movie(Base, TimestampMixin):\n    \"\"\"Movie model - Main entity\"\"\"\n    __tablename__ = 'movies'\n    # Primary Key\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    tmdb_id: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)\n    # Basic Information\n    title: Mapped[str] = mapped_column(String(500), nullable=False, index=True)\n    original_title: Mapped[str] = mapped_column(String(500), nullable=False)\n    original_language: Mapped[Optional[str]] = mapped_column(String(10), nullable=True)",
+        "detail": "models.movie",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "models.person",
+        "description": "models.person",
+        "peekOfCode": "class Person(Base, TimestampMixin):\n    \"\"\"Person model for cast and crew\"\"\"\n    __tablename__ = 'persons'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    tmdb_id: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)\n    name: Mapped[str] = mapped_column(String(255), nullable=False, index=True)\n    # Optional fields\n    biography: Mapped[Optional[str]] = mapped_column(Text, nullable=True)\n    birthday: Mapped[Optional[date]] = mapped_column(Date, nullable=True)\n    deathday: Mapped[Optional[date]] = mapped_column(Date, nullable=True)",
+        "detail": "models.person",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionCompany",
+        "kind": 6,
+        "importPath": "models.production",
+        "description": "models.production",
+        "peekOfCode": "class ProductionCompany(Base, TimestampMixin):\n    \"\"\"Production company model\"\"\"\n    __tablename__ = 'production_companies'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    tmdb_id: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)\n    name: Mapped[str] = mapped_column(String(255), nullable=False)\n    logo_path: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)\n    origin_country: Mapped[Optional[str]] = mapped_column(String(2), nullable=True)\n    # Relationships\n    movies: Mapped[List[\"Movie\"]] = relationship(",
+        "detail": "models.production",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionCountry",
+        "kind": 6,
+        "importPath": "models.production",
+        "description": "models.production",
+        "peekOfCode": "class ProductionCountry(Base, TimestampMixin):\n    \"\"\"Production country model\"\"\"\n    __tablename__ = 'production_countries'\n    iso_code: Mapped[str] = mapped_column(String(2), primary_key=True)\n    name: Mapped[str] = mapped_column(String(100), nullable=False, unique=True)\n    # Relationships\n    movies: Mapped[List[\"Movie\"]] = relationship(\n        \"Movie\",\n        secondary=\"movie_country_association\",\n        back_populates=\"production_countries\",",
+        "detail": "models.production",
+        "documentation": {}
+    },
+    {
+        "label": "SpokenLanguage",
+        "kind": 6,
+        "importPath": "models.production",
+        "description": "models.production",
+        "peekOfCode": "class SpokenLanguage(Base, TimestampMixin):\n    \"\"\"Spoken language model\"\"\"\n    __tablename__ = 'spoken_languages'\n    iso_code: Mapped[str] = mapped_column(String(2), primary_key=True)\n    name: Mapped[str] = mapped_column(String(100), nullable=False, unique=True)\n    english_name: Mapped[Optional[str]] = mapped_column(String(100), nullable=True)\n    # Relationships\n    movies: Mapped[List[\"Movie\"]] = relationship(\n        \"Movie\",\n        secondary=\"movie_language_association\",",
+        "detail": "models.production",
+        "documentation": {}
+    },
+    {
+        "label": "Provider",
+        "kind": 6,
+        "importPath": "models.provider",
+        "description": "models.provider",
+        "peekOfCode": "class Provider(Base, TimestampMixin):\n    \"\"\"Watch provider model (Netflix, Disney+, etc.)\"\"\"\n    __tablename__ = 'providers'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    tmdb_provider_id: Mapped[int] = mapped_column(Integer, unique=True, nullable=False, index=True)\n    name: Mapped[str] = mapped_column(String(255), nullable=False)\n    logo_path: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)\n    # Relationships\n    movies: Mapped[List[\"Movie\"]] = relationship(\n        \"Movie\",",
+        "detail": "models.provider",
+        "documentation": {}
+    },
+    {
+        "label": "UserMovieRating",
+        "kind": 6,
+        "importPath": "models.ratings",
+        "description": "models.ratings",
+        "peekOfCode": "class UserMovieRating(Base, TimestampMixin):\n    \"\"\"User movie rating model (1-10 scale)\"\"\"\n    __tablename__ = 'user_movie_ratings'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    user_id: Mapped[int] = mapped_column(\n        Integer,\n        ForeignKey('users.id', ondelete='CASCADE'),\n        nullable=False,\n        index=True,\n    )",
+        "detail": "models.ratings",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models.user",
+        "description": "models.user",
+        "peekOfCode": "class User(Base, TimestampMixin):\n    \"\"\"User model for test users\"\"\"\n    __tablename__ = 'users'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    username: Mapped[str] = mapped_column(String(100), unique=True, nullable=False, index=True)\n    email: Mapped[Optional[str]] = mapped_column(String(255), unique=True, nullable=True)\n    full_name: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)\n    # Relationships\n    ratings: Mapped[List[\"UserMovieRating\"]] = relationship(\n        \"UserMovieRating\",",
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Video",
+        "kind": 6,
+        "importPath": "models.video",
+        "description": "models.video",
+        "peekOfCode": "class Video(Base, TimestampMixin):\n    \"\"\"Video model for trailers and clips\"\"\"\n    __tablename__ = 'videos'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    movie_id: Mapped[int] = mapped_column(\n        Integer,\n        ForeignKey('movies.id', ondelete='CASCADE'),\n        nullable=False,\n        index=True,\n    )",
+        "detail": "models.video",
+        "documentation": {}
+    },
+    {
+        "label": "MovieReleaseDate",
+        "kind": 6,
+        "importPath": "models.video",
+        "description": "models.video",
+        "peekOfCode": "class MovieReleaseDate(Base, TimestampMixin):\n    \"\"\"Movie release date model (per country)\"\"\"\n    __tablename__ = 'movie_release_dates'\n    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)\n    movie_id: Mapped[int] = mapped_column(\n        Integer,\n        ForeignKey('movies.id', ondelete='CASCADE'),\n        nullable=False,\n        index=True,\n    )",
+        "detail": "models.video",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class Settings(BaseSettings):\n    \"\"\"Application settings\"\"\"\n    # Database\n    DATABASE_URL: str = \"postgresql+asyncpg://user:password@localhost:5432/movie_warehouse\"\n    DATABASE_ECHO: bool = True  # Set to False in production\n    # Connection Pool Settings\n    POOL_SIZE: int = 20\n    MAX_OVERFLOW: int = 10\n    POOL_TIMEOUT: int = 30\n    POOL_RECYCLE: int = 3600",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "get_settings",
+        "kind": 2,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "def get_settings() -> Settings:\n    \"\"\"Get cached settings instance\"\"\"\n    return Settings()",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseManager",
+        "kind": 6,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "class DatabaseManager:\n    \"\"\"Manages database connections and sessions\"\"\"\n    def __init__(self):\n        self.settings = get_settings()\n        self._engine: AsyncEngine | None = None\n        self._sessionmaker: async_sessionmaker[AsyncSession] | None = None\n    def get_engine(self) -> AsyncEngine:\n        \"\"\"Get or create async engine\"\"\"\n        if self._engine is None:\n            self._engine = create_async_engine(",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "db_manager",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "db_manager = DatabaseManager()\nasync def get_db() -> AsyncGenerator[AsyncSession, None]:\n    \"\"\"Dependency for getting database session\"\"\"\n    async with db_manager.get_session() as session:\n        yield session",
+        "detail": "database",
+        "documentation": {}
+    }
+]
