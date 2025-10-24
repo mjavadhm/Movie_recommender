@@ -10,8 +10,8 @@ from sqlalchemy.ext.asyncio import (
 from sqlalchemy import text
 from sqlalchemy.exc import SQLAlchemyError
 
-from .config import get_settings
-from .models.base import Base
+from config import get_settings
+from models.base import Base
 
 
 class DatabaseManager:
