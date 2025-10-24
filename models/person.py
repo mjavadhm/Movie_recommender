@@ -34,12 +34,14 @@ class Person(Base, TimestampMixin):
         "Movie",
         secondary="movie_cast_association",
         back_populates="cast",
+        overlaps="cast_associations",
     )
     
     movies_as_crew: Mapped[List["Movie"]] = relationship(
         "Movie",
         secondary="movie_crew_association",
         back_populates="crew",
+        overlaps="crew_associations",
     )
     
     def __repr__(self) -> str:
