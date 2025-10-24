@@ -336,6 +336,14 @@
         "documentation": {}
     },
     {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
         "label": "datetime",
         "importPath": "datetime",
         "description": "datetime",
@@ -593,6 +601,30 @@
     },
     {
         "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -930,6 +962,14 @@
         "documentation": {}
     },
     {
+        "label": "TMDbService",
+        "importPath": "tmdb_service",
+        "description": "tmdb_service",
+        "isExtraImport": true,
+        "detail": "tmdb_service",
+        "documentation": {}
+    },
+    {
         "label": "BaseSettings",
         "importPath": "pydantic_settings",
         "description": "pydantic_settings",
@@ -1018,28 +1058,68 @@
         "documentation": {}
     },
     {
-        "label": "db_manager",
-        "importPath": "database",
-        "description": "database",
-        "isExtraImport": true,
-        "detail": "database",
-        "documentation": {}
-    },
-    {
-        "label": "db_manager",
-        "importPath": "database",
-        "description": "database",
-        "isExtraImport": true,
-        "detail": "database",
-        "documentation": {}
-    },
-    {
-        "label": "httpx",
+        "label": "json",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "httpx",
-        "description": "httpx",
-        "detail": "httpx",
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "db_manager",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "db_manager",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "db_manager",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "UserMovieRating",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
         "documentation": {}
     },
     {
@@ -1128,6 +1208,15 @@
         "description": "models",
         "isExtraImport": true,
         "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
         "documentation": {}
     },
     {
@@ -1380,6 +1469,15 @@
         "description": "database",
         "peekOfCode": "db_manager = DatabaseManager()\nasync def get_db() -> AsyncGenerator[AsyncSession, None]:\n    \"\"\"Dependency for getting database session\"\"\"\n    async with db_manager.get_session() as session:\n        yield session",
         "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "LetterboxdImporter",
+        "kind": 6,
+        "importPath": "import_letterbox_json",
+        "description": "import_letterbox_json",
+        "peekOfCode": "class LetterboxdImporter:\n    \"\"\"Import movies from Letterboxd JSON export\"\"\"\n    def __init__(self, username: str = \"letterboxd_user\"):\n        self.service = TMDbService()\n        self.username = username\n        self.user = None\n        # Statistics\n        self.stats = {\n            \"total\": 0,\n            \"imported\": 0,",
+        "detail": "import_letterbox_json",
         "documentation": {}
     },
     {

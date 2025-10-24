@@ -1,0 +1,1890 @@
+[
+    {
+        "title_year": "Perfect Blue (1997)",
+        "letterboxd_id": "46175",
+        "film_slug": "perfect-blue",
+        "letterboxd_url": "https://letterboxd.com/film/perfect-blue/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Manchester by the Sea (2016)",
+        "letterboxd_id": "263221",
+        "film_slug": "manchester-by-the-sea",
+        "letterboxd_url": "https://letterboxd.com/film/manchester-by-the-sea/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Inglourious Basterds (2009)",
+        "letterboxd_id": "41352",
+        "film_slug": "inglourious-basterds",
+        "letterboxd_url": "https://letterboxd.com/film/inglourious-basterds/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Hateful Eight (2015)",
+        "letterboxd_id": "197012",
+        "film_slug": "the-hateful-eight",
+        "letterboxd_url": "https://letterboxd.com/film/the-hateful-eight/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "American Beauty (1999)",
+        "letterboxd_id": "2703",
+        "film_slug": "american-beauty",
+        "letterboxd_url": "https://letterboxd.com/film/american-beauty/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Requiem for a Dream (2000)",
+        "letterboxd_id": "51483",
+        "film_slug": "requiem-for-a-dream",
+        "letterboxd_url": "https://letterboxd.com/film/requiem-for-a-dream/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Django Unchained (2012)",
+        "letterboxd_id": "52516",
+        "film_slug": "django-unchained",
+        "letterboxd_url": "https://letterboxd.com/film/django-unchained/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Her (2013)",
+        "letterboxd_id": "114564",
+        "film_slug": "her",
+        "letterboxd_url": "https://letterboxd.com/film/her/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Witch (2015)",
+        "letterboxd_id": "237177",
+        "film_slug": "the-witch-2015",
+        "letterboxd_url": "https://letterboxd.com/film/the-witch-2015/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Lives of Others (2006)",
+        "letterboxd_id": "51538",
+        "film_slug": "the-lives-of-others",
+        "letterboxd_url": "https://letterboxd.com/film/the-lives-of-others/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Babel (2006)",
+        "letterboxd_id": "51140",
+        "film_slug": "babel-2006",
+        "letterboxd_url": "https://letterboxd.com/film/babel-2006/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Biutiful (2010)",
+        "letterboxd_id": "19336",
+        "film_slug": "biutiful",
+        "letterboxd_url": "https://letterboxd.com/film/biutiful/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "21 Grams (2003)",
+        "letterboxd_id": "51632",
+        "film_slug": "21-grams",
+        "letterboxd_url": "https://letterboxd.com/film/21-grams/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+        "letterboxd_id": "139795",
+        "film_slug": "birdman-or-the-unexpected-virtue-of-ignorance",
+        "letterboxd_url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Lighthouse (2019)",
+        "letterboxd_id": "433863",
+        "film_slug": "the-lighthouse-2019",
+        "letterboxd_url": "https://letterboxd.com/film/the-lighthouse-2019/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Sicario (2015)",
+        "letterboxd_id": "197628",
+        "film_slug": "sicario-2015",
+        "letterboxd_url": "https://letterboxd.com/film/sicario-2015/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Arrival (2016)",
+        "letterboxd_id": "257426",
+        "film_slug": "arrival-2016",
+        "letterboxd_url": "https://letterboxd.com/film/arrival-2016/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Fight Club (1999)",
+        "letterboxd_id": "51568",
+        "film_slug": "fight-club",
+        "letterboxd_url": "https://letterboxd.com/film/fight-club/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Memento (2000)",
+        "letterboxd_id": "51973",
+        "film_slug": "memento",
+        "letterboxd_url": "https://letterboxd.com/film/memento/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Dark Knight (2008)",
+        "letterboxd_id": "51896",
+        "film_slug": "the-dark-knight",
+        "letterboxd_url": "https://letterboxd.com/film/the-dark-knight/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The French Dispatch (2021)",
+        "letterboxd_id": "471207",
+        "film_slug": "the-french-dispatch",
+        "letterboxd_url": "https://letterboxd.com/film/the-french-dispatch/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "One Flew Over the Cuckoo's Nest (1975)",
+        "letterboxd_id": "51600",
+        "film_slug": "one-flew-over-the-cuckoos-nest",
+        "letterboxd_url": "https://letterboxd.com/film/one-flew-over-the-cuckoos-nest/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Léon: The Professional (1994)",
+        "letterboxd_id": "51949",
+        "film_slug": "leon-the-professional",
+        "letterboxd_url": "https://letterboxd.com/film/leon-the-professional/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Submarino (2010)",
+        "letterboxd_id": "18576",
+        "film_slug": "submarino",
+        "letterboxd_url": "https://letterboxd.com/film/submarino/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Hunt (2012)",
+        "letterboxd_id": "84051",
+        "film_slug": "the-hunt-2012",
+        "letterboxd_url": "https://letterboxd.com/film/the-hunt-2012/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Shining (1980)",
+        "letterboxd_id": "51432",
+        "film_slug": "the-shining",
+        "letterboxd_url": "https://letterboxd.com/film/the-shining/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Black Swan (2010)",
+        "letterboxd_id": "20956",
+        "film_slug": "black-swan",
+        "letterboxd_url": "https://letterboxd.com/film/black-swan/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Oldboy (2003)",
+        "letterboxd_id": "51454",
+        "film_slug": "oldboy",
+        "letterboxd_url": "https://letterboxd.com/film/oldboy/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Shutter Island (2010)",
+        "letterboxd_id": "45409",
+        "film_slug": "shutter-island",
+        "letterboxd_url": "https://letterboxd.com/film/shutter-island/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Prisoners (2013)",
+        "letterboxd_id": "110740",
+        "film_slug": "prisoners",
+        "letterboxd_url": "https://letterboxd.com/film/prisoners/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Pulp Fiction (1994)",
+        "letterboxd_id": "51444",
+        "film_slug": "pulp-fiction",
+        "letterboxd_url": "https://letterboxd.com/film/pulp-fiction/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Departed (2006)",
+        "letterboxd_id": "51042",
+        "film_slug": "the-departed",
+        "letterboxd_url": "https://letterboxd.com/film/the-departed/",
+        "user_rating": 5.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Brothers (2009)",
+        "letterboxd_id": "48031",
+        "film_slug": "brothers-2009",
+        "letterboxd_url": "https://letterboxd.com/film/brothers-2009/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Wrestler (2008)",
+        "letterboxd_id": "44740",
+        "film_slug": "the-wrestler",
+        "letterboxd_url": "https://letterboxd.com/film/the-wrestler/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Machinist (2004)",
+        "letterboxd_id": "49254",
+        "film_slug": "the-machinist",
+        "letterboxd_url": "https://letterboxd.com/film/the-machinist/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Once Upon a Time... in Hollywood (2019)",
+        "letterboxd_id": "397859",
+        "film_slug": "once-upon-a-time-in-hollywood",
+        "letterboxd_url": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Mulholland Drive (2001)",
+        "letterboxd_id": "51171",
+        "film_slug": "mulholland-drive",
+        "letterboxd_url": "https://letterboxd.com/film/mulholland-drive/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Usual Suspects (1995)",
+        "letterboxd_id": "51495",
+        "film_slug": "the-usual-suspects",
+        "letterboxd_url": "https://letterboxd.com/film/the-usual-suspects/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "City of God (2002)",
+        "letterboxd_id": "51523",
+        "film_slug": "city-of-god",
+        "letterboxd_url": "https://letterboxd.com/film/city-of-god/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Memories of Murder (2003)",
+        "letterboxd_id": "45312",
+        "film_slug": "memories-of-murder",
+        "letterboxd_url": "https://letterboxd.com/film/memories-of-murder/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Old Bachelor (2024)",
+        "letterboxd_id": "1103205",
+        "film_slug": "the-old-bachelor",
+        "letterboxd_url": "https://letterboxd.com/film/the-old-bachelor/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Sound of Metal (2019)",
+        "letterboxd_id": "432004",
+        "film_slug": "sound-of-metal",
+        "letterboxd_url": "https://letterboxd.com/film/sound-of-metal/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Room (2015)",
+        "letterboxd_id": "187975",
+        "film_slug": "room-2015",
+        "letterboxd_url": "https://letterboxd.com/film/room-2015/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "BARDO, False Chronicle of a Handful of Truths (2022)",
+        "letterboxd_id": "609761",
+        "film_slug": "bardo-false-chronicle-of-a-handful-of-truths",
+        "letterboxd_url": "https://letterboxd.com/film/bardo-false-chronicle-of-a-handful-of-truths/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Joker (2019)",
+        "letterboxd_id": "406775",
+        "film_slug": "joker-2019",
+        "letterboxd_url": "https://letterboxd.com/film/joker-2019/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Se7en (1995)",
+        "letterboxd_id": "51345",
+        "film_slug": "se7en",
+        "letterboxd_url": "https://letterboxd.com/film/se7en/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "No Country for Old Men (2007)",
+        "letterboxd_id": "48140",
+        "film_slug": "no-country-for-old-men",
+        "letterboxd_url": "https://letterboxd.com/film/no-country-for-old-men/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Interstellar (2014)",
+        "letterboxd_id": "117621",
+        "film_slug": "interstellar",
+        "letterboxd_url": "https://letterboxd.com/film/interstellar/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Wonderful Story of Henry Sugar (2023)",
+        "letterboxd_id": "829364",
+        "film_slug": "the-wonderful-story-of-henry-sugar",
+        "letterboxd_url": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Isle of Dogs (2018)",
+        "letterboxd_id": "333448",
+        "film_slug": "isle-of-dogs-2018",
+        "letterboxd_url": "https://letterboxd.com/film/isle-of-dogs-2018/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Grand Budapest Hotel (2014)",
+        "letterboxd_id": "95113",
+        "film_slug": "the-grand-budapest-hotel",
+        "letterboxd_url": "https://letterboxd.com/film/the-grand-budapest-hotel/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Rain Man (1988)",
+        "letterboxd_id": "51705",
+        "film_slug": "rain-man",
+        "letterboxd_url": "https://letterboxd.com/film/rain-man/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+        "letterboxd_id": "51218",
+        "film_slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+        "letterboxd_url": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+        "user_rating": 4.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Demolition (2015)",
+        "letterboxd_id": "230832",
+        "film_slug": "demolition",
+        "letterboxd_url": "https://letterboxd.com/film/demolition/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Nightcrawler (2014)",
+        "letterboxd_id": "169907",
+        "film_slug": "nightcrawler",
+        "letterboxd_url": "https://letterboxd.com/film/nightcrawler/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Dunkirk (2017)",
+        "letterboxd_id": "310199",
+        "film_slug": "dunkirk-2017",
+        "letterboxd_url": "https://letterboxd.com/film/dunkirk-2017/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Me, Myself & Irene (2000)",
+        "letterboxd_id": "50505",
+        "film_slug": "me-myself-irene",
+        "letterboxd_url": "https://letterboxd.com/film/me-myself-irene/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Marriage Story (2019)",
+        "letterboxd_id": "422682",
+        "film_slug": "marriage-story-2019",
+        "letterboxd_url": "https://letterboxd.com/film/marriage-story-2019/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Into the Wild (2007)",
+        "letterboxd_id": "48571",
+        "film_slug": "into-the-wild",
+        "letterboxd_url": "https://letterboxd.com/film/into-the-wild/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "1917 (2019)",
+        "letterboxd_id": "460155",
+        "film_slug": "1917",
+        "letterboxd_url": "https://letterboxd.com/film/1917/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Nell (1994)",
+        "letterboxd_id": "50663",
+        "film_slug": "nell",
+        "letterboxd_url": "https://letterboxd.com/film/nell/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Taxi Driver (1976)",
+        "letterboxd_id": "51947",
+        "film_slug": "taxi-driver",
+        "letterboxd_url": "https://letterboxd.com/film/taxi-driver/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Eyes Wide Shut (1999)",
+        "letterboxd_id": "51717",
+        "film_slug": "eyes-wide-shut",
+        "letterboxd_url": "https://letterboxd.com/film/eyes-wide-shut/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Full Metal Jacket (1987)",
+        "letterboxd_id": "51521",
+        "film_slug": "full-metal-jacket",
+        "letterboxd_url": "https://letterboxd.com/film/full-metal-jacket/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Guardians of the Galaxy (2014)",
+        "letterboxd_id": "93676",
+        "film_slug": "guardians-of-the-galaxy",
+        "letterboxd_url": "https://letterboxd.com/film/guardians-of-the-galaxy/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Martyrs (2008)",
+        "letterboxd_id": "47061",
+        "film_slug": "martyrs",
+        "letterboxd_url": "https://letterboxd.com/film/martyrs/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Napoleon (2023)",
+        "letterboxd_id": "674137",
+        "film_slug": "napoleon-2023",
+        "letterboxd_url": "https://letterboxd.com/film/napoleon-2023/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Coco (2017)",
+        "letterboxd_id": "285509",
+        "film_slug": "coco-2017",
+        "letterboxd_url": "https://letterboxd.com/film/coco-2017/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "John Wick (2014)",
+        "letterboxd_id": "172076",
+        "film_slug": "john-wick",
+        "letterboxd_url": "https://letterboxd.com/film/john-wick/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "American Psycho (2000)",
+        "letterboxd_id": "51097",
+        "film_slug": "american-psycho",
+        "letterboxd_url": "https://letterboxd.com/film/american-psycho/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Uncut Gems (2019)",
+        "letterboxd_id": "404266",
+        "film_slug": "uncut-gems",
+        "letterboxd_url": "https://letterboxd.com/film/uncut-gems/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "My Neighbor Totoro (1988)",
+        "letterboxd_id": "47756",
+        "film_slug": "my-neighbor-totoro",
+        "letterboxd_url": "https://letterboxd.com/film/my-neighbor-totoro/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Howl's Moving Castle (2004)",
+        "letterboxd_id": "49062",
+        "film_slug": "howls-moving-castle",
+        "letterboxd_url": "https://letterboxd.com/film/howls-moving-castle/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Midsommar (2019)",
+        "letterboxd_id": "459564",
+        "film_slug": "midsommar",
+        "letterboxd_url": "https://letterboxd.com/film/midsommar/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Silence of the Lambs (1991)",
+        "letterboxd_id": "51782",
+        "film_slug": "the-silence-of-the-lambs",
+        "letterboxd_url": "https://letterboxd.com/film/the-silence-of-the-lambs/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "mother! (2017)",
+        "letterboxd_id": "316311",
+        "film_slug": "mother-2017",
+        "letterboxd_url": "https://letterboxd.com/film/mother-2017/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Nikita (1990)",
+        "letterboxd_id": "47271",
+        "film_slug": "nikita",
+        "letterboxd_url": "https://letterboxd.com/film/nikita/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Amadeus (1984)",
+        "letterboxd_id": "51777",
+        "film_slug": "amadeus",
+        "letterboxd_url": "https://letterboxd.com/film/amadeus/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Wolf of Wall Street (2013)",
+        "letterboxd_id": "86114",
+        "film_slug": "the-wolf-of-wall-street",
+        "letterboxd_url": "https://letterboxd.com/film/the-wolf-of-wall-street/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Mr. Nobody (2009)",
+        "letterboxd_id": "31546",
+        "film_slug": "mr-nobody",
+        "letterboxd_url": "https://letterboxd.com/film/mr-nobody/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Nosferatu (2024)",
+        "letterboxd_id": "359505",
+        "film_slug": "nosferatu-2024",
+        "letterboxd_url": "https://letterboxd.com/film/nosferatu-2024/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Spring, Summer, Fall, Winter... and Spring (2003)",
+        "letterboxd_id": "51937",
+        "film_slug": "spring-summer-fall-winter-and-spring",
+        "letterboxd_url": "https://letterboxd.com/film/spring-summer-fall-winter-and-spring/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "You Were Never Really Here (2017)",
+        "letterboxd_id": "332437",
+        "film_slug": "you-were-never-really-here",
+        "letterboxd_url": "https://letterboxd.com/film/you-were-never-really-here/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Cinderella Man (2005)",
+        "letterboxd_id": "51232",
+        "film_slug": "cinderella-man",
+        "letterboxd_url": "https://letterboxd.com/film/cinderella-man/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Guillermo del Toro's Pinocchio (2022)",
+        "letterboxd_id": "484263",
+        "film_slug": "guillermo-del-toros-pinocchio",
+        "letterboxd_url": "https://letterboxd.com/film/guillermo-del-toros-pinocchio/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Society of the Snow (2023)",
+        "letterboxd_id": "813840",
+        "film_slug": "society-of-the-snow",
+        "letterboxd_url": "https://letterboxd.com/film/society-of-the-snow/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Crash (2004)",
+        "letterboxd_id": "50902",
+        "film_slug": "crash-2004",
+        "letterboxd_url": "https://letterboxd.com/film/crash-2004/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Amélie (2001)",
+        "letterboxd_id": "51858",
+        "film_slug": "amelie",
+        "letterboxd_url": "https://letterboxd.com/film/amelie/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Anatomy of a Fall (2023)",
+        "letterboxd_id": "822093",
+        "film_slug": "anatomy-of-a-fall",
+        "letterboxd_url": "https://letterboxd.com/film/anatomy-of-a-fall/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Poor Things (2023)",
+        "letterboxd_id": "710352",
+        "film_slug": "poor-things-2023",
+        "letterboxd_url": "https://letterboxd.com/film/poor-things-2023/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Whiplash (2014)",
+        "letterboxd_id": "171384",
+        "film_slug": "whiplash-2014",
+        "letterboxd_url": "https://letterboxd.com/film/whiplash-2014/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Cloud Atlas (2012)",
+        "letterboxd_id": "69998",
+        "film_slug": "cloud-atlas",
+        "letterboxd_url": "https://letterboxd.com/film/cloud-atlas/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Cast Away (2000)",
+        "letterboxd_id": "47778",
+        "film_slug": "cast-away",
+        "letterboxd_url": "https://letterboxd.com/film/cast-away/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Paprika (2006)",
+        "letterboxd_id": "49023",
+        "film_slug": "paprika-2006",
+        "letterboxd_url": "https://letterboxd.com/film/paprika-2006/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Amores Perros (2000)",
+        "letterboxd_id": "51990",
+        "film_slug": "amores-perros",
+        "letterboxd_url": "https://letterboxd.com/film/amores-perros/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Revenant (2015)",
+        "letterboxd_id": "207224",
+        "film_slug": "the-revenant-2015",
+        "letterboxd_url": "https://letterboxd.com/film/the-revenant-2015/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Intouchables (2011)",
+        "letterboxd_id": "63767",
+        "film_slug": "the-intouchables",
+        "letterboxd_url": "https://letterboxd.com/film/the-intouchables/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Holdovers (2023)",
+        "letterboxd_id": "755564",
+        "film_slug": "the-holdovers",
+        "letterboxd_url": "https://letterboxd.com/film/the-holdovers/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Incendies (2010)",
+        "letterboxd_id": "18627",
+        "film_slug": "incendies",
+        "letterboxd_url": "https://letterboxd.com/film/incendies/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Dune: Part Two (2024)",
+        "letterboxd_id": "617443",
+        "film_slug": "dune-part-two",
+        "letterboxd_url": "https://letterboxd.com/film/dune-part-two/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Dune (2021)",
+        "letterboxd_id": "371378",
+        "film_slug": "dune-2021",
+        "letterboxd_url": "https://letterboxd.com/film/dune-2021/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Eternal Sunshine of the Spotless Mind (2004)",
+        "letterboxd_id": "2683",
+        "film_slug": "eternal-sunshine-of-the-spotless-mind",
+        "letterboxd_url": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Prestige (2006)",
+        "letterboxd_id": "51147",
+        "film_slug": "the-prestige",
+        "letterboxd_url": "https://letterboxd.com/film/the-prestige/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Oppenheimer (2023)",
+        "letterboxd_id": "784328",
+        "film_slug": "oppenheimer-2023",
+        "letterboxd_url": "https://letterboxd.com/film/oppenheimer-2023/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Mist (2007)",
+        "letterboxd_id": "48602",
+        "film_slug": "the-mist",
+        "letterboxd_url": "https://letterboxd.com/film/the-mist/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Rat Catcher (2023)",
+        "letterboxd_id": "1059457",
+        "film_slug": "the-rat-catcher-2023",
+        "letterboxd_url": "https://letterboxd.com/film/the-rat-catcher-2023/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Poison (2023)",
+        "letterboxd_id": "1059455",
+        "film_slug": "poison-2023",
+        "letterboxd_url": "https://letterboxd.com/film/poison-2023/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Life Aquatic with Steve Zissou (2004)",
+        "letterboxd_id": "51674",
+        "film_slug": "the-life-aquatic-with-steve-zissou",
+        "letterboxd_url": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Phoenician Scheme (2025)",
+        "letterboxd_id": "1025047",
+        "film_slug": "the-phoenician-scheme",
+        "letterboxd_url": "https://letterboxd.com/film/the-phoenician-scheme/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Fantastic Mr. Fox (2009)",
+        "letterboxd_id": "46344",
+        "film_slug": "fantastic-mr-fox",
+        "letterboxd_url": "https://letterboxd.com/film/fantastic-mr-fox/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Man on the Moon (1999)",
+        "letterboxd_id": "50749",
+        "film_slug": "man-on-the-moon",
+        "letterboxd_url": "https://letterboxd.com/film/man-on-the-moon/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "A Clockwork Orange (1971)",
+        "letterboxd_id": "51867",
+        "film_slug": "a-clockwork-orange",
+        "letterboxd_url": "https://letterboxd.com/film/a-clockwork-orange/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Fountain (2006)",
+        "letterboxd_id": "51075",
+        "film_slug": "the-fountain",
+        "letterboxd_url": "https://letterboxd.com/film/the-fountain/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Reservoir Dogs (1992)",
+        "letterboxd_id": "51610",
+        "film_slug": "reservoir-dogs",
+        "letterboxd_url": "https://letterboxd.com/film/reservoir-dogs/",
+        "user_rating": 4.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Joker: Folie à Deux (2024)",
+        "letterboxd_id": "800858",
+        "film_slug": "joker-folie-a-deux",
+        "letterboxd_url": "https://letterboxd.com/film/joker-folie-a-deux/",
+        "user_rating": 4.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Eddington (2025)",
+        "letterboxd_id": "574595",
+        "film_slug": "eddington",
+        "letterboxd_url": "https://letterboxd.com/film/eddington/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Lobster (2015)",
+        "letterboxd_id": "178123",
+        "film_slug": "the-lobster",
+        "letterboxd_url": "https://letterboxd.com/film/the-lobster/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "I Origins (2014)",
+        "letterboxd_id": "171007",
+        "film_slug": "i-origins",
+        "letterboxd_url": "https://letterboxd.com/film/i-origins/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Southpaw (2015)",
+        "letterboxd_id": "234208",
+        "film_slug": "southpaw-2015",
+        "letterboxd_url": "https://letterboxd.com/film/southpaw-2015/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Spider-Man: Into the Spider-Verse (2018)",
+        "letterboxd_id": "251943",
+        "film_slug": "spider-man-into-the-spider-verse",
+        "letterboxd_url": "https://letterboxd.com/film/spider-man-into-the-spider-verse/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "At Eternity's Gate (2018)",
+        "letterboxd_id": "422096",
+        "film_slug": "at-eternitys-gate",
+        "letterboxd_url": "https://letterboxd.com/film/at-eternitys-gate/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "8 Mile (2002)",
+        "letterboxd_id": "51984",
+        "film_slug": "8-mile",
+        "letterboxd_url": "https://letterboxd.com/film/8-mile/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Two Popes (2019)",
+        "letterboxd_id": "480099",
+        "film_slug": "the-two-popes",
+        "letterboxd_url": "https://letterboxd.com/film/the-two-popes/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Dallas Buyers Club (2013)",
+        "letterboxd_id": "114605",
+        "film_slug": "dallas-buyers-club",
+        "letterboxd_url": "https://letterboxd.com/film/dallas-buyers-club/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Ace Ventura: Pet Detective (1994)",
+        "letterboxd_id": "49922",
+        "film_slug": "ace-ventura-pet-detective",
+        "letterboxd_url": "https://letterboxd.com/film/ace-ventura-pet-detective/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Moon (2009)",
+        "letterboxd_id": "41012",
+        "film_slug": "moon",
+        "letterboxd_url": "https://letterboxd.com/film/moon/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Triangle (2009)",
+        "letterboxd_id": "35307",
+        "film_slug": "triangle-2009",
+        "letterboxd_url": "https://letterboxd.com/film/triangle-2009/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Bridge to Terabithia (2007)",
+        "letterboxd_id": "51117",
+        "film_slug": "bridge-to-terabithia",
+        "letterboxd_url": "https://letterboxd.com/film/bridge-to-terabithia/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Guardians of the Galaxy Vol. 3 (2023)",
+        "letterboxd_id": "379711",
+        "film_slug": "guardians-of-the-galaxy-vol-3",
+        "letterboxd_url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Mask (1994)",
+        "letterboxd_id": "51298",
+        "film_slug": "the-mask-1994",
+        "letterboxd_url": "https://letterboxd.com/film/the-mask-1994/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Soul (2020)",
+        "letterboxd_id": "438511",
+        "film_slug": "soul-2020",
+        "letterboxd_url": "https://letterboxd.com/film/soul-2020/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "John Wick: Chapter 4 (2023)",
+        "letterboxd_id": "530882",
+        "film_slug": "john-wick-chapter-4",
+        "letterboxd_url": "https://letterboxd.com/film/john-wick-chapter-4/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Groundhog Day (1993)",
+        "letterboxd_id": "51914",
+        "film_slug": "groundhog-day",
+        "letterboxd_url": "https://letterboxd.com/film/groundhog-day/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Jojo Rabbit (2019)",
+        "letterboxd_id": "444600",
+        "film_slug": "jojo-rabbit",
+        "letterboxd_url": "https://letterboxd.com/film/jojo-rabbit/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Fargo (1996)",
+        "letterboxd_id": "51781",
+        "film_slug": "fargo",
+        "letterboxd_url": "https://letterboxd.com/film/fargo/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Donnie Darko (2001)",
+        "letterboxd_id": "51910",
+        "film_slug": "donnie-darko",
+        "letterboxd_url": "https://letterboxd.com/film/donnie-darko/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Scarface (1983)",
+        "letterboxd_id": "51939",
+        "film_slug": "scarface-1983",
+        "letterboxd_url": "https://letterboxd.com/film/scarface-1983/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Catch Me If You Can (2002)",
+        "letterboxd_id": "51484",
+        "film_slug": "catch-me-if-you-can-2002",
+        "letterboxd_url": "https://letterboxd.com/film/catch-me-if-you-can-2002/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Spirited Away (2001)",
+        "letterboxd_id": "51921",
+        "film_slug": "spirited-away",
+        "letterboxd_url": "https://letterboxd.com/film/spirited-away/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Truman Show (1998)",
+        "letterboxd_id": "27256",
+        "film_slug": "the-truman-show",
+        "letterboxd_url": "https://letterboxd.com/film/the-truman-show/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Bullet Train (2022)",
+        "letterboxd_id": "641961",
+        "film_slug": "bullet-train",
+        "letterboxd_url": "https://letterboxd.com/film/bullet-train/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "12 Angry Men (1957)",
+        "letterboxd_id": "51700",
+        "film_slug": "12-angry-men",
+        "letterboxd_url": "https://letterboxd.com/film/12-angry-men/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Substance (2024)",
+        "letterboxd_id": "838140",
+        "film_slug": "the-substance",
+        "letterboxd_url": "https://letterboxd.com/film/the-substance/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Conclave (2024)",
+        "letterboxd_id": "877253",
+        "film_slug": "conclave",
+        "letterboxd_url": "https://letterboxd.com/film/conclave/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Apocalypse Now (1979)",
+        "letterboxd_id": "2690",
+        "film_slug": "apocalypse-now",
+        "letterboxd_url": "https://letterboxd.com/film/apocalypse-now/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Life Is Beautiful (1997)",
+        "letterboxd_id": "51487",
+        "film_slug": "life-is-beautiful",
+        "letterboxd_url": "https://letterboxd.com/film/life-is-beautiful/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Nocturnal Animals (2016)",
+        "letterboxd_id": "270106",
+        "film_slug": "nocturnal-animals",
+        "letterboxd_url": "https://letterboxd.com/film/nocturnal-animals/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Mystic River (2003)",
+        "letterboxd_id": "51737",
+        "film_slug": "mystic-river",
+        "letterboxd_url": "https://letterboxd.com/film/mystic-river/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Split (2016)",
+        "letterboxd_id": "316315",
+        "film_slug": "split-2016",
+        "letterboxd_url": "https://letterboxd.com/film/split-2016/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Deadpool (2016)",
+        "letterboxd_id": "220575",
+        "film_slug": "deadpool",
+        "letterboxd_url": "https://letterboxd.com/film/deadpool/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Saving Private Ryan (1998)",
+        "letterboxd_id": "51295",
+        "film_slug": "saving-private-ryan",
+        "letterboxd_url": "https://letterboxd.com/film/saving-private-ryan/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Goya's Ghosts (2006)",
+        "letterboxd_id": "45233",
+        "film_slug": "goyas-ghosts",
+        "letterboxd_url": "https://letterboxd.com/film/goyas-ghosts/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Pursuit of Happyness (2006)",
+        "letterboxd_id": "51061",
+        "film_slug": "the-pursuit-of-happyness",
+        "letterboxd_url": "https://letterboxd.com/film/the-pursuit-of-happyness/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Ted (2012)",
+        "letterboxd_id": "57376",
+        "film_slug": "ted",
+        "letterboxd_url": "https://letterboxd.com/film/ted/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Megalopolis (2024)",
+        "letterboxd_id": "520328",
+        "film_slug": "megalopolis-2024",
+        "letterboxd_url": "https://letterboxd.com/film/megalopolis-2024/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Good Will Hunting (1997)",
+        "letterboxd_id": "51621",
+        "film_slug": "good-will-hunting",
+        "letterboxd_url": "https://letterboxd.com/film/good-will-hunting/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Parasite (2019)",
+        "letterboxd_id": "426406",
+        "film_slug": "parasite-2019",
+        "letterboxd_url": "https://letterboxd.com/film/parasite-2019/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Revolutionary Road (2008)",
+        "letterboxd_id": "49496",
+        "film_slug": "revolutionary-road",
+        "letterboxd_url": "https://letterboxd.com/film/revolutionary-road/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Enemy (2013)",
+        "letterboxd_id": "132034",
+        "film_slug": "enemy",
+        "letterboxd_url": "https://letterboxd.com/film/enemy/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Blade Runner 2049 (2017)",
+        "letterboxd_id": "265439",
+        "film_slug": "blade-runner-2049",
+        "letterboxd_url": "https://letterboxd.com/film/blade-runner-2049/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Zodiac (2007)",
+        "letterboxd_id": "50659",
+        "film_slug": "zodiac",
+        "letterboxd_url": "https://letterboxd.com/film/zodiac/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Gone Girl (2014)",
+        "letterboxd_id": "149857",
+        "film_slug": "gone-girl",
+        "letterboxd_url": "https://letterboxd.com/film/gone-girl/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Inception (2010)",
+        "letterboxd_id": "34722",
+        "film_slug": "inception",
+        "letterboxd_url": "https://letterboxd.com/film/inception/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Green Mile (1999)",
+        "letterboxd_id": "51613",
+        "film_slug": "the-green-mile",
+        "letterboxd_url": "https://letterboxd.com/film/the-green-mile/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Shawshank Redemption (1994)",
+        "letterboxd_id": "51778",
+        "film_slug": "the-shawshank-redemption",
+        "letterboxd_url": "https://letterboxd.com/film/the-shawshank-redemption/",
+        "user_rating": 3.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Handmaiden (2016)",
+        "letterboxd_id": "216086",
+        "film_slug": "the-handmaiden",
+        "letterboxd_url": "https://letterboxd.com/film/the-handmaiden/",
+        "user_rating": 3.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Chungking Express (1994)",
+        "letterboxd_id": "45602",
+        "film_slug": "chungking-express",
+        "letterboxd_url": "https://letterboxd.com/film/chungking-express/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Super Mario Bros. Movie (2023)",
+        "letterboxd_id": "432302",
+        "film_slug": "the-super-mario-bros-movie",
+        "letterboxd_url": "https://letterboxd.com/film/the-super-mario-bros-movie/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Casablanca (1942)",
+        "letterboxd_id": "51770",
+        "film_slug": "casablanca",
+        "letterboxd_url": "https://letterboxd.com/film/casablanca/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Straight Outta Compton (2015)",
+        "letterboxd_id": "201340",
+        "film_slug": "straight-outta-compton",
+        "letterboxd_url": "https://letterboxd.com/film/straight-outta-compton/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Quantum of Solace (2008)",
+        "letterboxd_id": "45918",
+        "film_slug": "quantum-of-solace",
+        "letterboxd_url": "https://letterboxd.com/film/quantum-of-solace/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Great Gatsby (2013)",
+        "letterboxd_id": "285",
+        "film_slug": "the-great-gatsby-2013",
+        "letterboxd_url": "https://letterboxd.com/film/the-great-gatsby-2013/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Coherence (2013)",
+        "letterboxd_id": "155900",
+        "film_slug": "coherence",
+        "letterboxd_url": "https://letterboxd.com/film/coherence/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "God Bless America (2011)",
+        "letterboxd_id": "62008",
+        "film_slug": "god-bless-america",
+        "letterboxd_url": "https://letterboxd.com/film/god-bless-america/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Decision to Leave (2022)",
+        "letterboxd_id": "629320",
+        "film_slug": "decision-to-leave",
+        "letterboxd_url": "https://letterboxd.com/film/decision-to-leave/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Longlegs (2024)",
+        "letterboxd_id": "1110059",
+        "film_slug": "longlegs",
+        "letterboxd_url": "https://letterboxd.com/film/longlegs/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Casino Royale (2006)",
+        "letterboxd_id": "27809",
+        "film_slug": "casino-royale-2006",
+        "letterboxd_url": "https://letterboxd.com/film/casino-royale-2006/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Glass (2019)",
+        "letterboxd_id": "382669",
+        "film_slug": "glass-2019",
+        "letterboxd_url": "https://letterboxd.com/film/glass-2019/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Guardians of the Galaxy Vol. 2 (2017)",
+        "letterboxd_id": "209322",
+        "film_slug": "guardians-of-the-galaxy-vol-2",
+        "letterboxd_url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-2/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "John Wick: Chapter 3 – Parabellum (2019)",
+        "letterboxd_id": "390039",
+        "film_slug": "john-wick-chapter-3-parabellum",
+        "letterboxd_url": "https://letterboxd.com/film/john-wick-chapter-3-parabellum/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "John Wick: Chapter 2 (2017)",
+        "letterboxd_id": "251661",
+        "film_slug": "john-wick-chapter-2",
+        "letterboxd_url": "https://letterboxd.com/film/john-wick-chapter-2/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Terminal (2004)",
+        "letterboxd_id": "51527",
+        "film_slug": "the-terminal",
+        "letterboxd_url": "https://letterboxd.com/film/the-terminal/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Kiki's Delivery Service (1989)",
+        "letterboxd_id": "41360",
+        "film_slug": "kikis-delivery-service",
+        "letterboxd_url": "https://letterboxd.com/film/kikis-delivery-service/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Maelström (2000)",
+        "letterboxd_id": "28512",
+        "film_slug": "maelstrom",
+        "letterboxd_url": "https://letterboxd.com/film/maelstrom/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Le Samouraï (1967)",
+        "letterboxd_id": "48817",
+        "film_slug": "le-samourai",
+        "letterboxd_url": "https://letterboxd.com/film/le-samourai/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Boondock Saints (1999)",
+        "letterboxd_id": "47768",
+        "film_slug": "the-boondock-saints",
+        "letterboxd_url": "https://letterboxd.com/film/the-boondock-saints/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Butterfly Effect (2004)",
+        "letterboxd_id": "50654",
+        "film_slug": "the-butterfly-effect",
+        "letterboxd_url": "https://letterboxd.com/film/the-butterfly-effect/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Deadpool & Wolverine (2024)",
+        "letterboxd_id": "462870",
+        "film_slug": "deadpool-wolverine",
+        "letterboxd_url": "https://letterboxd.com/film/deadpool-wolverine/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Deadpool 2 (2018)",
+        "letterboxd_id": "318195",
+        "film_slug": "deadpool-2",
+        "letterboxd_url": "https://letterboxd.com/film/deadpool-2/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Ted 2 (2015)",
+        "letterboxd_id": "152464",
+        "film_slug": "ted-2",
+        "letterboxd_url": "https://letterboxd.com/film/ted-2/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Village (2004)",
+        "letterboxd_id": "48167",
+        "film_slug": "the-village",
+        "letterboxd_url": "https://letterboxd.com/film/the-village/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Godfather Part II (1974)",
+        "letterboxd_id": "51816",
+        "film_slug": "the-godfather-part-ii",
+        "letterboxd_url": "https://letterboxd.com/film/the-godfather-part-ii/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Godfather (1972)",
+        "letterboxd_id": "51818",
+        "film_slug": "the-godfather",
+        "letterboxd_url": "https://letterboxd.com/film/the-godfather/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Matrix Revolutions (2003)",
+        "letterboxd_id": "51516",
+        "film_slug": "the-matrix-revolutions",
+        "letterboxd_url": "https://letterboxd.com/film/the-matrix-revolutions/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Matrix Reloaded (2003)",
+        "letterboxd_id": "51517",
+        "film_slug": "the-matrix-reloaded",
+        "letterboxd_url": "https://letterboxd.com/film/the-matrix-reloaded/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Matrix (1999)",
+        "letterboxd_id": "51518",
+        "film_slug": "the-matrix",
+        "letterboxd_url": "https://letterboxd.com/film/the-matrix/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Forrest Gump (1994)",
+        "letterboxd_id": "2704",
+        "film_slug": "forrest-gump",
+        "letterboxd_url": "https://letterboxd.com/film/forrest-gump/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Mickey 17 (2025)",
+        "letterboxd_id": "620281",
+        "film_slug": "mickey-17",
+        "letterboxd_url": "https://letterboxd.com/film/mickey-17/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Dead Man (1995)",
+        "letterboxd_id": "51231",
+        "film_slug": "dead-man",
+        "letterboxd_url": "https://letterboxd.com/film/dead-man/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Spectre (2015)",
+        "letterboxd_id": "147597",
+        "film_slug": "spectre-2015",
+        "letterboxd_url": "https://letterboxd.com/film/spectre-2015/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Killer (2023)",
+        "letterboxd_id": "717654",
+        "film_slug": "the-killer-2023",
+        "letterboxd_url": "https://letterboxd.com/film/the-killer-2023/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Panic Room (2002)",
+        "letterboxd_id": "49259",
+        "film_slug": "panic-room",
+        "letterboxd_url": "https://letterboxd.com/film/panic-room/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Game (1997)",
+        "letterboxd_id": "50168",
+        "film_slug": "the-game",
+        "letterboxd_url": "https://letterboxd.com/film/the-game/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Dark Knight Rises (2012)",
+        "letterboxd_id": "16550",
+        "film_slug": "the-dark-knight-rises",
+        "letterboxd_url": "https://letterboxd.com/film/the-dark-knight-rises/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Batman Begins (2005)",
+        "letterboxd_id": "51784",
+        "film_slug": "batman-begins",
+        "letterboxd_url": "https://letterboxd.com/film/batman-begins/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Tenet (2020)",
+        "letterboxd_id": "506032",
+        "film_slug": "tenet",
+        "letterboxd_url": "https://letterboxd.com/film/tenet/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Swan (2023)",
+        "letterboxd_id": "1059456",
+        "film_slug": "the-swan-2023",
+        "letterboxd_url": "https://letterboxd.com/film/the-swan-2023/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Bottle Rocket (1996)",
+        "letterboxd_id": "43680",
+        "film_slug": "bottle-rocket-1996",
+        "letterboxd_url": "https://letterboxd.com/film/bottle-rocket-1996/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Rushmore (1998)",
+        "letterboxd_id": "45203",
+        "film_slug": "rushmore",
+        "letterboxd_url": "https://letterboxd.com/film/rushmore/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Darjeeling Limited (2007)",
+        "letterboxd_id": "49268",
+        "film_slug": "the-darjeeling-limited",
+        "letterboxd_url": "https://letterboxd.com/film/the-darjeeling-limited/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Royal Tenenbaums (2001)",
+        "letterboxd_id": "47169",
+        "film_slug": "the-royal-tenenbaums",
+        "letterboxd_url": "https://letterboxd.com/film/the-royal-tenenbaums/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Moonrise Kingdom (2012)",
+        "letterboxd_id": "70105",
+        "film_slug": "moonrise-kingdom",
+        "letterboxd_url": "https://letterboxd.com/film/moonrise-kingdom/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Asteroid City (2023)",
+        "letterboxd_id": "668555",
+        "film_slug": "asteroid-city",
+        "letterboxd_url": "https://letterboxd.com/film/asteroid-city/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Lucy (2014)",
+        "letterboxd_id": "168860",
+        "film_slug": "lucy-2014",
+        "letterboxd_url": "https://letterboxd.com/film/lucy-2014/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Another Round (2020)",
+        "letterboxd_id": "508246",
+        "film_slug": "another-round",
+        "letterboxd_url": "https://letterboxd.com/film/another-round/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Pi (1998)",
+        "letterboxd_id": "51630",
+        "film_slug": "pi",
+        "letterboxd_url": "https://letterboxd.com/film/pi/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "The Whale (2022)",
+        "letterboxd_id": "703478",
+        "film_slug": "the-whale-2022",
+        "letterboxd_url": "https://letterboxd.com/film/the-whale-2022/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Jackie Brown (1997)",
+        "letterboxd_id": "51868",
+        "film_slug": "jackie-brown",
+        "letterboxd_url": "https://letterboxd.com/film/jackie-brown/",
+        "user_rating": 3.0,
+        "user_liked": true
+    },
+    {
+        "title_year": "Kill Bill: Vol. 1 (2003)",
+        "letterboxd_id": "2694",
+        "film_slug": "kill-bill-vol-1",
+        "letterboxd_url": "https://letterboxd.com/film/kill-bill-vol-1/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Killers of the Flower Moon (2023)",
+        "letterboxd_id": "398009",
+        "film_slug": "killers-of-the-flower-moon",
+        "letterboxd_url": "https://letterboxd.com/film/killers-of-the-flower-moon/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "GoodFellas (1990)",
+        "letterboxd_id": "51383",
+        "film_slug": "goodfellas",
+        "letterboxd_url": "https://letterboxd.com/film/goodfellas/",
+        "user_rating": 3.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Gravity (2013)",
+        "letterboxd_id": "16529",
+        "film_slug": "gravity-2013",
+        "letterboxd_url": "https://letterboxd.com/film/gravity-2013/",
+        "user_rating": 2.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Accused (1988)",
+        "letterboxd_id": "45817",
+        "film_slug": "the-accused-1988",
+        "letterboxd_url": "https://letterboxd.com/film/the-accused-1988/",
+        "user_rating": 2.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Ponyo (2008)",
+        "letterboxd_id": "44594",
+        "film_slug": "ponyo",
+        "letterboxd_url": "https://letterboxd.com/film/ponyo/",
+        "user_rating": 2.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Nobody (2021)",
+        "letterboxd_id": "542555",
+        "film_slug": "nobody-2021",
+        "letterboxd_url": "https://letterboxd.com/film/nobody-2021/",
+        "user_rating": 2.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Crash (1996)",
+        "letterboxd_id": "51268",
+        "film_slug": "crash",
+        "letterboxd_url": "https://letterboxd.com/film/crash/",
+        "user_rating": 2.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Predestination (2014)",
+        "letterboxd_id": "147509",
+        "film_slug": "predestination",
+        "letterboxd_url": "https://letterboxd.com/film/predestination/",
+        "user_rating": 2.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Skyfall (2012)",
+        "letterboxd_id": "26779",
+        "film_slug": "skyfall",
+        "letterboxd_url": "https://letterboxd.com/film/skyfall/",
+        "user_rating": 2.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Alien³ (1992)",
+        "letterboxd_id": "47888",
+        "film_slug": "alien-3",
+        "letterboxd_url": "https://letterboxd.com/film/alien-3/",
+        "user_rating": 2.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Sympathizer (2024)",
+        "letterboxd_id": "1002650",
+        "film_slug": "the-sympathizer",
+        "letterboxd_url": "https://letterboxd.com/film/the-sympathizer/",
+        "user_rating": 2.5,
+        "user_liked": false
+    },
+    {
+        "title_year": "Joint Security Area (2000)",
+        "letterboxd_id": "50252",
+        "film_slug": "joint-security-area",
+        "letterboxd_url": "https://letterboxd.com/film/joint-security-area/",
+        "user_rating": 2.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Kill Bill: Vol. 2 (2004)",
+        "letterboxd_id": "51696",
+        "film_slug": "kill-bill-vol-2",
+        "letterboxd_url": "https://letterboxd.com/film/kill-bill-vol-2/",
+        "user_rating": 2.5,
+        "user_liked": true
+    },
+    {
+        "title_year": "Dream Scenario (2023)",
+        "letterboxd_id": "739691",
+        "film_slug": "dream-scenario",
+        "letterboxd_url": "https://letterboxd.com/film/dream-scenario/",
+        "user_rating": 2.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Moonlight (2016)",
+        "letterboxd_id": "312205",
+        "film_slug": "moonlight-2016",
+        "letterboxd_url": "https://letterboxd.com/film/moonlight-2016/",
+        "user_rating": 2.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "The Elephant Man (1980)",
+        "letterboxd_id": "50653",
+        "film_slug": "the-elephant-man",
+        "letterboxd_url": "https://letterboxd.com/film/the-elephant-man/",
+        "user_rating": 2.0,
+        "user_liked": false
+    },
+    {
+        "title_year": "Death Proof (2007)",
+        "letterboxd_id": "50621",
+        "film_slug": "death-proof",
+        "letterboxd_url": "https://letterboxd.com/film/death-proof/",
+        "user_rating": 2.0,
+        "user_liked": false
+    }
+]
