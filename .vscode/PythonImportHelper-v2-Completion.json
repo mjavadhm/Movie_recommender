@@ -168,6 +168,14 @@
         "documentation": {}
     },
     {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
         "label": "Integer",
         "importPath": "sqlalchemy",
         "description": "sqlalchemy",

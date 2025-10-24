@@ -1,7 +1,7 @@
 from typing import List, Optional
 from datetime import date
 
-from sqlalchemy import Integer, String, Text, Float, BigInteger, Date, Boolean
+from sqlalchemy import Integer, String, Text, Float, BigInteger, Date, Boolean, ForeignKey
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from .base import Base, TimestampMixin
@@ -57,9 +57,10 @@ class Movie(Base, TimestampMixin):
     homepage: Mapped[Optional[str]] = mapped_column(String(500), nullable=True)
     imdb_id: Mapped[Optional[str]] = mapped_column(String(20), nullable=True, index=True)
     
-    # Foreign Keys
+    # Foreign Keys - FIXED: Added ForeignKey constraint
     collection_id: Mapped[Optional[int]] = mapped_column(
         Integer,
+        ForeignKey('collections.id', ondelete='SET NULL'),
         nullable=True,
         index=True,
     )
@@ -70,7 +71,6 @@ class Movie(Base, TimestampMixin):
     collection: Mapped[Optional["Collection"]] = relationship(
         "Collection",
         back_populates="movies",
-        foreign_keys=[collection_id],
         lazy="selectin",
     )
     

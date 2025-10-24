@@ -142,14 +142,15 @@ class TMDbService:
     
     async def get_or_create_country(self, session, country_data: Dict) -> ProductionCountry:
         """دریافت یا ساخت کشور"""
+        # FIXED: Changed iso_3166_1 to iso_code
         result = await session.execute(
-            select(ProductionCountry).where(ProductionCountry.iso_3166_1 == country_data['iso_3166_1'])
+            select(ProductionCountry).where(ProductionCountry.iso_code == country_data['iso_3166_1'])
         )
         country = result.scalar_one_or_none()
         
         if not country:
             country = ProductionCountry(
-                iso_3166_1=country_data['iso_3166_1'],
+                iso_code=country_data['iso_3166_1'],
                 name=country_data['name']
             )
             session.add(country)
@@ -159,14 +160,15 @@ class TMDbService:
     
     async def get_or_create_language(self, session, language_data: Dict) -> SpokenLanguage:
         """دریافت یا ساخت زبان"""
+        # FIXED: Changed iso_639_1 to iso_code
         result = await session.execute(
-            select(SpokenLanguage).where(SpokenLanguage.iso_639_1 == language_data['iso_639_1'])
+            select(SpokenLanguage).where(SpokenLanguage.iso_code == language_data['iso_639_1'])
         )
         language = result.scalar_one_or_none()
         
         if not language:
             language = SpokenLanguage(
-                iso_639_1=language_data['iso_639_1'],
+                iso_code=language_data['iso_639_1'],
                 name=language_data['name'],
                 english_name=language_data.get('english_name')
             )
@@ -187,7 +189,8 @@ class TMDbService:
                 tmdb_id=collection_data['id'],
                 name=collection_data['name'],
                 poster_path=collection_data.get('poster_path'),
-                backdrop_path=collection_data.get('backdrop_path')
+                backdrop_path=collection_data.get('backdrop_path'),
+                overview=collection_data.get('overview')
             )
             session.add(collection)
             await session.flush()
@@ -241,7 +244,7 @@ class TMDbService:
                         session, 
                         movie_data['belongs_to_collection']
                     )
-                    movie.collection = collection
+                    movie.collection_id = collection.id
                 
                 # اضافه کردن ژانرها
                 if movie_data.get('genres'):
@@ -278,30 +281,24 @@ class TMDbService:
                     for i, cast_data in enumerate(movie_data['credits']['cast'][:20]):  # فقط 20 نفر اول
                         person = await self.get_or_create_person(session, cast_data)
                         movie.cast.append(person)
-                        # TODO: اضافه کردن character و order به association table
                 
                 # اضافه کردن عوامل (Crew)
                 if movie_data.get('credits', {}).get('crew'):
                     for crew_data in movie_data['credits']['crew'][:20]:  # فقط 20 نفر اول
                         person = await self.get_or_create_person(session, crew_data)
                         movie.crew.append(person)
-                        # TODO: اضافه کردن department و job به association table
                 
                 # اضافه کردن ویدیوها (تریلرها)
                 if movie_data.get('videos', {}).get('results'):
                     for video_data in movie_data['videos']['results']:
                         video = Video(
-                            tmdb_id=video_data['id'],
-                            iso_639_1=video_data.get('iso_639_1'),
-                            iso_3166_1=video_data.get('iso_3166_1'),
-                            name=video_data['name'],
+                            tmdb_video_id=video_data['id'],
                             key=video_data['key'],
                             site=video_data['site'],
-                            size=video_data.get('size'),
                             type=video_data['type'],
+                            name=video_data['name'],
+                            size=video_data.get('size'),
                             official=video_data.get('official', False),
-                            published_at=datetime.strptime(video_data['published_at'], '%Y-%m-%dT%H:%M:%S.%fZ')
-                                if video_data.get('published_at') else None,
                             movie=movie
                         )
                         session.add(video)
