@@ -8,8 +8,8 @@ from .associations import (
     movie_country_association,
     movie_language_association,
     movie_provider_association,
-    movie_cast_association,
-    movie_crew_association,
+    MovieCastAssociation,
+    MovieCrewAssociation,
 )
 
 #  Models
@@ -36,8 +36,8 @@ __all__ = [
     "movie_country_association",
     "movie_language_association",
     "movie_provider_association",
-    "movie_cast_association",
-    "movie_crew_association",
+    "MovieCastAssociation",
+    "MovieCrewAssociation",
     
     # Main Models
     "Movie",

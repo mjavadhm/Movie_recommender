@@ -10,7 +10,7 @@ from database import db_manager
 from models import (
     Movie, Genre, Keyword, Person, ProductionCompany,
     ProductionCountry, SpokenLanguage, Provider, Video,
-    MovieReleaseDate, Collection
+    MovieReleaseDate, Collection, MovieCastAssociation, MovieCrewAssociation
 )
 
 settings = get_settings()
@@ -278,16 +278,44 @@ class TMDbService:
                 
                 # اضافه کردن بازیگران (Cast)
                 if movie_data.get('credits', {}).get('cast'):
-                    for i, cast_data in enumerate(movie_data['credits']['cast'][:20]):  # فقط 20 نفر اول
+                    for cast_data in movie_data['credits']['cast'][:30]:  # 30 نفر اول
                         person = await self.get_or_create_person(session, cast_data)
-                        movie.cast.append(person)
-                
+                        association = MovieCastAssociation(
+                            person_id=person.id,
+                            character_name=cast_data.get('character'),
+                            cast_order=cast_data.get('order'),
+                            credit_id=cast_data.get('credit_id'),
+                        )
+                        movie.cast_associations.append(association)
+
                 # اضافه کردن عوامل (Crew)
                 if movie_data.get('credits', {}).get('crew'):
-                    for crew_data in movie_data['credits']['crew'][:20]:  # فقط 20 نفر اول
+                    for crew_data in movie_data['credits']['crew'][:30]:  # 30 نفر اول
                         person = await self.get_or_create_person(session, crew_data)
-                        movie.crew.append(person)
+                        association = MovieCrewAssociation(
+                            person_id=person.id,
+                            department=crew_data.get('department'),
+                            job=crew_data.get('job'),
+                            credit_id=crew_data.get('credit_id'),
+                        )
+                        movie.crew_associations.append(association)
                 
+                # اضافه کردن تاریخ‌های انتشار (Release Dates)
+                if movie_data.get('release_dates', {}).get('results'):
+                    for country_release in movie_data['release_dates']['results']:
+                        for release in country_release['release_dates']:
+                            release_date_str = release['release_date'].rstrip('Z')
+                            release_date_obj = datetime.fromisoformat(release_date_str).date()
+
+                            release_date = MovieReleaseDate(
+                                movie=movie,
+                                country_code=country_release['iso_3166_1'],
+                                release_date=release_date_obj,
+                                certification=release.get('certification'),
+                                release_type=release.get('type')
+                            )
+                            session.add(release_date)
+
                 # اضافه کردن ویدیوها (تریلرها)
                 if movie_data.get('videos', {}).get('results'):
                     for video_data in movie_data['videos']['results']:
