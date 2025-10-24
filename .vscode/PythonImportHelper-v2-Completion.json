@@ -1379,7 +1379,7 @@
         "kind": 6,
         "importPath": "tmdb_service",
         "description": "tmdb_service",
-        "peekOfCode": "class TMDbService:\n    \"\"\"سرویس مدیریت API های TMDb\"\"\"\n    BASE_URL = \"https://api.themoviedb.org/3\"\n    def __init__(self, api_key: str = None):\n        self.api_key = api_key or settings.tmdb_api_key\n        if not self.api_key:\n            raise ValueError(\"❌ TMDB_API_KEY تنظیم نشده است!\")\n        self.client = httpx.AsyncClient(timeout=30.0)\n    async def close(self):\n        \"\"\"بستن کلاینت HTTP\"\"\"",
+        "peekOfCode": "class TMDbService:\n    \"\"\"سرویس مدیریت API های TMDb\"\"\"\n    BASE_URL = \"https://api.themoviedb.org/3\"\n    def __init__(self, api_key: str = None):\n        self.api_key = api_key or settings.TMDB_API_KEY\n        if not self.api_key:\n            raise ValueError(\"❌ TMDB_API_KEY تنظیم نشده است!\")\n        self.client = httpx.AsyncClient(timeout=30.0)\n    async def close(self):\n        \"\"\"بستن کلاینت HTTP\"\"\"",
         "detail": "tmdb_service",
         "documentation": {}
     },
@@ -1388,7 +1388,7 @@
         "kind": 5,
         "importPath": "tmdb_service",
         "description": "tmdb_service",
-        "peekOfCode": "settings = get_settings()\nclass TMDbService:\n    \"\"\"سرویس مدیریت API های TMDb\"\"\"\n    BASE_URL = \"https://api.themoviedb.org/3\"\n    def __init__(self, api_key: str = None):\n        self.api_key = api_key or settings.tmdb_api_key\n        if not self.api_key:\n            raise ValueError(\"❌ TMDB_API_KEY تنظیم نشده است!\")\n        self.client = httpx.AsyncClient(timeout=30.0)\n    async def close(self):",
+        "peekOfCode": "settings = get_settings()\nclass TMDbService:\n    \"\"\"سرویس مدیریت API های TMDb\"\"\"\n    BASE_URL = \"https://api.themoviedb.org/3\"\n    def __init__(self, api_key: str = None):\n        self.api_key = api_key or settings.TMDB_API_KEY\n        if not self.api_key:\n            raise ValueError(\"❌ TMDB_API_KEY تنظیم نشده است!\")\n        self.client = httpx.AsyncClient(timeout=30.0)\n    async def close(self):",
         "detail": "tmdb_service",
         "documentation": {}
     }

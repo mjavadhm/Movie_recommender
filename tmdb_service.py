@@ -22,7 +22,7 @@ class TMDbService:
     BASE_URL = "https://api.themoviedb.org/3"
     
     def __init__(self, api_key: str = None):
-        self.api_key = api_key or settings.tmdb_api_key
+        self.api_key = api_key or settings.TMDB_API_KEY
         if not self.api_key:
             raise ValueError("❌ TMDB_API_KEY تنظیم نشده است!")
         
