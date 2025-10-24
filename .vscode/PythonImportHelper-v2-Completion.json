@@ -320,6 +320,46 @@
         "documentation": {}
     },
     {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "datetime",
         "importPath": "datetime",
         "description": "datetime",
@@ -336,31 +376,7 @@
         "documentation": {}
     },
     {
-        "label": "date",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
         "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "date",
         "importPath": "datetime",
         "description": "datetime",
         "isExtraImport": true,
@@ -569,6 +585,38 @@
     },
     {
         "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -840,6 +888,40 @@
         "documentation": {}
     },
     {
+        "label": "selectinload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "TMDbService",
+        "importPath": "tmdb_service",
+        "description": "tmdb_service",
+        "isExtraImport": true,
+        "detail": "tmdb_service",
+        "documentation": {}
+    },
+    {
         "label": "BaseSettings",
         "importPath": "pydantic_settings",
         "description": "pydantic_settings",
@@ -912,6 +994,14 @@
         "documentation": {}
     },
     {
+        "label": "get_settings",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
         "label": "Base",
         "importPath": "models.base",
         "description": "models.base",
@@ -920,12 +1010,11 @@
         "documentation": {}
     },
     {
-        "label": "asyncio",
-        "kind": 6,
+        "label": "db_manager",
+        "importPath": "database",
+        "description": "database",
         "isExtraImport": true,
-        "importPath": "asyncio",
-        "description": "asyncio",
-        "detail": "asyncio",
+        "detail": "database",
         "documentation": {}
     },
     {
@@ -934,6 +1023,103 @@
         "description": "database",
         "isExtraImport": true,
         "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Genre",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Keyword",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionCompany",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductionCountry",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "SpokenLanguage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Provider",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Video",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "MovieReleaseDate",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
         "documentation": {}
     },
     {
@@ -1144,6 +1330,15 @@
         "documentation": {}
     },
     {
+        "label": "main",
+        "kind": 2,
+        "importPath": "add_movie",
+        "description": "add_movie",
+        "peekOfCode": "def main():\n    \"\"\"تابع اصلی\"\"\"\n    if len(sys.argv) < 2:\n        print(\"استفاده:\")\n        print(\"  python add_movie.py \\\"نام فیلم\\\"\")\n        print(\"  python add_movie.py \\\"فیلم 1\\\" \\\"فیلم 2\\\" \\\"فیلم 3\\\"\")\n        print(\"\\nمثال:\")\n        print(\"  python add_movie.py \\\"Inception\\\"\")\n        print(\"  python add_movie.py \\\"The Matrix\\\" \\\"Interstellar\\\" \\\"The Dark Knight\\\"\")\n        return",
+        "detail": "add_movie",
+        "documentation": {}
+    },
+    {
         "label": "Settings",
         "kind": 6,
         "importPath": "config",
@@ -1177,6 +1372,24 @@
         "description": "database",
         "peekOfCode": "db_manager = DatabaseManager()\nasync def get_db() -> AsyncGenerator[AsyncSession, None]:\n    \"\"\"Dependency for getting database session\"\"\"\n    async with db_manager.get_session() as session:\n        yield session",
         "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "TMDbService",
+        "kind": 6,
+        "importPath": "tmdb_service",
+        "description": "tmdb_service",
+        "peekOfCode": "class TMDbService:\n    \"\"\"سرویس مدیریت API های TMDb\"\"\"\n    BASE_URL = \"https://api.themoviedb.org/3\"\n    def __init__(self, api_key: str = None):\n        self.api_key = api_key or settings.tmdb_api_key\n        if not self.api_key:\n            raise ValueError(\"❌ TMDB_API_KEY تنظیم نشده است!\")\n        self.client = httpx.AsyncClient(timeout=30.0)\n    async def close(self):\n        \"\"\"بستن کلاینت HTTP\"\"\"",
+        "detail": "tmdb_service",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "tmdb_service",
+        "description": "tmdb_service",
+        "peekOfCode": "settings = get_settings()\nclass TMDbService:\n    \"\"\"سرویس مدیریت API های TMDb\"\"\"\n    BASE_URL = \"https://api.themoviedb.org/3\"\n    def __init__(self, api_key: str = None):\n        self.api_key = api_key or settings.tmdb_api_key\n        if not self.api_key:\n            raise ValueError(\"❌ TMDB_API_KEY تنظیم نشده است!\")\n        self.client = httpx.AsyncClient(timeout=30.0)\n    async def close(self):",
+        "detail": "tmdb_service",
         "documentation": {}
     }
 ]
