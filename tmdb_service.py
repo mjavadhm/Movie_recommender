@@ -312,7 +312,7 @@ class TMDbService:
                                 country_code=country_release['iso_3166_1'],
                                 release_date=release_date_obj,
                                 certification=release.get('certification'),
-                                type=release.get('type')
+                                release_type=release.get('type')
                             )
                             session.add(release_date)
 
