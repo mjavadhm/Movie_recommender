@@ -1,4 +1,4 @@
-rom contextlib import asynccontextmanager
+from contextlib import asynccontextmanager
 from typing import AsyncGenerator
 
 from sqlalchemy.ext.asyncio import (

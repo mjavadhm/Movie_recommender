@@ -1,4 +1,6 @@
+
 from .base import Base, TimestampMixin
+
 from .associations import (
     movie_genre_association,
     movie_keyword_association,
@@ -9,6 +11,8 @@ from .associations import (
     movie_cast_association,
     movie_crew_association,
 )
+
+#  Models
 from .movie import Movie
 from .person import Person
 from .user import User
@@ -21,7 +25,7 @@ from .video import Video, MovieReleaseDate
 from .ratings import UserMovieRating
 
 __all__ = [
-    # Base
+    # Base Classes
     "Base",
     "TimestampMixin",
     
